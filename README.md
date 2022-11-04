@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Awaisb10
+- 👀 I’m interested in react web development and AI 
+- 🌱 I’m currently learning Next.js and MongoDb 
+- 💞️ I’m looking to collaborate on web and mobile development and teaching Object Oriented Programming and Data Structures
+- 📫 How to reach me: awaisbokhari10@gmail.com and linkedin: https://www.linkedin.com/in/syed-awais-bokhari-2409b3167/
